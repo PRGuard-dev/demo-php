@@ -1,0 +1,10 @@
+{
+    "name": "prguard-demos/demo-php",
+    "description": "PRGuard Getting Started demo (PHP)",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo_sqlite": "*"
+    }
+}
